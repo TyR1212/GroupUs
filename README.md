@@ -1,1 +1,3 @@
 # GroupUs
+
+GroupUs is an application that allows people to connect and form groups for college courses, events and more. A user can either join a room or create a room and share a code to others so they can join. In the room, users can chat, send join requests and invite other users to join their group. The frontend is built with React.js and the backend will be built with ASP.NET Core and PostgreSQL.
